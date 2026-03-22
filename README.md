@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Harshit99-tiwari/Harshit99-tiwari/main/banner.jpeg)
 # 👋 Hi, I'm a Java Developer in Progress
 
 💻 **About Me**
