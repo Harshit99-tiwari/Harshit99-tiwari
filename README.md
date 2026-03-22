@@ -14,6 +14,10 @@
 * 🐍 Python (Basics)
 * ⚙️ C / C++
 * 🔗 Git & GitHub
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Tools-orange?style=for-the-badge\&logo=git\&logoColor=white)
+
 
 ---
 
@@ -49,6 +53,10 @@
 
 
 ---
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshit99-tiwari\&theme=tokyonight)
+
 
 ## 📫 Connect With Me
 
