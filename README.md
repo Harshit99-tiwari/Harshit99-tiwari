@@ -43,7 +43,10 @@
 
 ## 📈 GitHub Stats
 
-*(You can add stats here later)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit99-tiwari\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit99-tiwari\&layout=compact\&theme=tokyonight)
+
 
 ---
 
