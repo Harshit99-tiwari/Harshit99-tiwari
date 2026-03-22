@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshit99-tiwari/Harshit99-tiwari/main/banner.jpeg" width="85%" height="220"/>
-</p>
-![Banner](https://raw.githubusercontent.com/Harshit99-tiwari/Harshit99-tiwari/main/banner.jpeg)
 # 👋 Hi, I'm a Java Developer in Progress
 
 💻 **About Me**
