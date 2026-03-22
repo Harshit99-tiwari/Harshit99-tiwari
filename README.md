@@ -18,25 +18,7 @@
 ![DSA](https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Tools-orange?style=for-the-badge\&logo=git\&logoColor=white)
 
-
 ---
-
-## 🚀 What I'm Doing
-
-* Solving DSA problems regularly
-* Improving problem-solving skills
-* Working on Java-based projects
-
----
-
-## 🎯 Goals
-
-* Become a strong **Backend Developer**
-* Master **Java + DSA**
-* Learn **Spring Boot**
-
----
-
 ## 📌 Projects
 
 * 📱 Java Location App
