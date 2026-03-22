@@ -60,6 +60,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harshit99-tiwari\&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Harshit99-tiwari/github-snake/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Connect With Me
 
