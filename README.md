@@ -1,28 +1,57 @@
 # 👋 Hi, I'm a Java Developer in Progress
 
-💻 I’m currently focused on:
+💻 **About Me**
 
-* Java (Core + OOP)
-* Data Structures & Algorithms (DSA)
-* Building real-world projects
+* 🌱 Currently learning **Java (Core + OOP)**
+* 🧠 Practicing **Data Structures & Algorithms (DSA)**
+* 🚀 Building small projects to improve real-world skills
 
-🚀 What I’m doing right now:
+---
 
-* Solving problems on LeetCode
+## 🔧 Tech Stack
+
+* 💡 Java (Main Focus)
+* 🐍 Python (Basics)
+* ⚙️ C / C++
+* 🔗 Git & GitHub
+
+---
+
+## 🚀 What I'm Doing
+
+* Solving DSA problems regularly
 * Improving problem-solving skills
-* Creating Java-based projects
+* Working on Java-based projects
 
-🛠️ Tech Stack:
+---
 
-* Java
-* Python (Basics)
-* C / C++
-* Git & GitHub
+## 🎯 Goals
 
-📌 Current Goal:
+* Become a strong **Backend Developer**
+* Master **Java + DSA**
+* Learn **Spring Boot**
 
-* Become a strong backend developer
-* Master DSA + Java
+---
 
-📫 Connect with me:
-* https://www.linkedin.com/in/harshit-nath-tiwari-759b0a385/
+## 📌 Projects
+
+* 📱 Java Location App
+* 💻 Core Java Practice
+* 📚 DSA Practice (ongoing)
+
+---
+
+## 📈 GitHub Stats
+
+*(You can add stats here later)*
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn (https://www.linkedin.com/in/harshit-nath-tiwari-759b0a385/)
+
+---
+
+⭐ *Consistent learning > Perfection*
+
