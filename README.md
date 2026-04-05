@@ -2,7 +2,7 @@
 
 💻 **About Me**
 
-* 🌱 Currently learning **Java (Core + OOP)**
+* 🌱 Currently learning **Java (Multithreading & core topics)**
 * 🧠 Practicing **Data Structures & Algorithms (DSA)**
 * 🚀 Building small projects to improve real-world skills
 
@@ -22,16 +22,6 @@
 ## 📌 Projects
 
 * 📱 Java Location App
-* 💻 Core Java Practice
-* 📚 DSA Practice (ongoing)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit99-tiwari\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit99-tiwari\&layout=compact\&theme=tokyonight)
 
 ---
 ## 📊 Contribution Graph
