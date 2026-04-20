@@ -2,7 +2,7 @@
 
 💻 **About Me**
 
-* 🌱 Currently learning **Java (Multithreading & core topics)**
+* 🌱 Currently learning **Java (JDBC & AWT)** 
 * 🧠 Practicing **Data Structures & Algorithms (DSA)**
 * 🚀 Building small projects to improve real-world skills
 
