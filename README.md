@@ -28,9 +28,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit99-tiwari&theme=tokyo-night)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshit99-tiwari\&theme=tokyonight)
 
 ## 📫 Connect With Me
 
