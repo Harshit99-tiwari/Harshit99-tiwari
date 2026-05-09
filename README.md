@@ -2,7 +2,7 @@
 
 💻 **About Me**
 
-* 🌱 Currently learning **Java (JDBC & AWT)** 
+* 🌱 Currently learning **Java (Java Swing & JavaFX)** 
 * 🧠 Practicing **Data Structures & Algorithms (DSA)**
 * 🚀 Building small projects to improve real-world skills
 
